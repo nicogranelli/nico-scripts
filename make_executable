@@ -1,0 +1,2 @@
+chmod a+x $1
+echo "el archivo $1 se ha hecho ejecutable"
